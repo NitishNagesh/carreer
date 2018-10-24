@@ -1,0 +1,6 @@
+framework module Pods_carreer {
+  umbrella header "Pods-carreer-umbrella.h"
+
+  export *
+  module * { export * }
+}
